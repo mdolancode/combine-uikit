@@ -56,15 +56,23 @@
 		C58198912985879B0071B1C2 /* Combine+UIKit */ = {
 			isa = PBXGroup;
 			children = (
-				C58198922985879B0071B1C2 /* AppDelegate.swift */,
-				C58198942985879B0071B1C2 /* SceneDelegate.swift */,
+				C58198A8298593D10071B1C2 /* Files */,
 				C58198962985879B0071B1C2 /* ViewController.swift */,
 				C58198982985879B0071B1C2 /* Main.storyboard */,
-				C581989B2985879C0071B1C2 /* Assets.xcassets */,
-				C581989D2985879C0071B1C2 /* LaunchScreen.storyboard */,
 				C58198A02985879C0071B1C2 /* Info.plist */,
 			);
 			path = "Combine+UIKit";
+			sourceTree = "<group>";
+		};
+		C58198A8298593D10071B1C2 /* Files */ = {
+			isa = PBXGroup;
+			children = (
+				C58198922985879B0071B1C2 /* AppDelegate.swift */,
+				C58198942985879B0071B1C2 /* SceneDelegate.swift */,
+				C581989D2985879C0071B1C2 /* LaunchScreen.storyboard */,
+				C581989B2985879C0071B1C2 /* Assets.xcassets */,
+			);
+			path = Files;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
